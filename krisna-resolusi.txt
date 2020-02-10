@@ -1,5 +1,0 @@
-Halo pak, salam kenal nama saya Krisna dari Bandung
-
-Resolusi Saya:
-- Membuat custom world generation untuk minecraft bedrock edition menggunakan addons
-- Bekerja di start-up
